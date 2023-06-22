@@ -1,4 +1,4 @@
-A script for InDesign that creates a nice colorpalette for you.
+A script for InDesign that creates a nice color palette for you.
 
 Create a quare and fill it with some color. Select the square, run the script, BAM, colorpalette.
 For some reason it doesn't work with some colors, i don't know how to fix that. But it mostly works well.
